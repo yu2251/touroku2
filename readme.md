@@ -25,6 +25,10 @@
   https://tailwindcss.com/
   ・Fabric.js の使い方メモ
   https://zenn.dev/megeton/articles/aaad434c8533b6
+  ・Error: MySQL shutdown unexpectedlyの解決方法
+	https://office54.net/iot/app/xampp-mysql-error
+　・XAMPP終了時に、「Exception EAccessViolation in module xampp-control.exe at 0025B2AE.」とエラーが表示された時の対策（備忘録）
+	https://jet-blog.com/xampp_error_0025b2ae/
 
 
 
