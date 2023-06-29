@@ -1,0 +1,12 @@
+var pCnvs = document.createElement("canvas");
+pCnvs.width = 20;
+pCnvs.height = 20;
+var pCtx = pCnvs.getContext("2d");
+pCtx.fillStyle = '#F8F4EC';
+pCtx.fillRect(0, 0, 20, 20);
+pCtx.beginPath();
+pCtx.moveTo(20, 0);
+pCtx.lineTo(20, 20);
+pCtx.lineTo(0, 20);
+pCtx.strokeStyle = '#DFD7C5';
+pCtx.stroke();
